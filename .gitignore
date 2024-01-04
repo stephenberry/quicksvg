@@ -1,2 +1,4 @@
 *.svg
 *.x
+/build
+.DS_Store
